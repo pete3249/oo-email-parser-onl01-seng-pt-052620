@@ -10,7 +10,7 @@ class EmailAddressParser
   
   def parse
     binding.pry
-    @email_addresses.split(/\s|,/)
+    @email_addresses.split(/" "|,/)
   end 
 
 end 
