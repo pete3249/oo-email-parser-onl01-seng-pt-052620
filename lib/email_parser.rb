@@ -13,6 +13,3 @@ class EmailAddressParser
   end 
 
 end 
-
-# "avi@test.com, arel@test.com
-# "avi@test.com arel@test.com
